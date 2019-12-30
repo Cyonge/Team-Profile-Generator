@@ -118,6 +118,7 @@ function promptUser(answers) {
 // could also go through and creating html and writing it to a file
 function generateHTML() {
     // put html here
+    
     console.log(teamArray)
 
     function renderManager() {
